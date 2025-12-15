@@ -1,0 +1,56 @@
+C:\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.exe
+C:\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.deps.json
+C:\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.runtimeconfig.json
+C:\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.dll
+C:\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.pdb
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.Form1.resources
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.Pop_Option_Drink.resources
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.Properties.Resources.resources
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.csproj.GenerateResource.cache
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.AssemblyInfoInputs.cache
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.AssemblyInfo.cs
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.csproj.CoreCompileInputs.cache
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.dll
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\refint\User_Kiosk_Program.dll
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.pdb
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.genruntimeconfig.cache
+C:\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\ref\User_Kiosk_Program.dll
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.Form1.resources
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.Pop_Option_Drink.resources
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.Properties.Resources.resources
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.csproj.GenerateResource.cache
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.AssemblyInfoInputs.cache
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.AssemblyInfo.cs
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.dll
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\refint\User_Kiosk_Program.dll
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.exe
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.deps.json
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.runtimeconfig.json
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.dll
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.pdb
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.genruntimeconfig.cache
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\ref\User_Kiosk_Program.dll
+C:\Users\User\Documents\카카오톡 받은 파일\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.PopUp.resources
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.exe
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.deps.json
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.runtimeconfig.json
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.dll
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\bin\Debug\net6.0-windows\User_Kiosk_Program.pdb
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.Form1.resources
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.PopUp.resources
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.Pop_Option_Drink.resources
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.Properties.Resources.resources
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.csproj.GenerateResource.cache
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.AssemblyInfo.cs
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.dll
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\refint\User_Kiosk_Program.dll
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.pdb
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\User_Kiosk_Program.genruntimeconfig.cache
+C:\Users\User\Desktop\kiosk\kiosk\User_Kiosk_Program\obj\Debug\net6.0-windows\ref\User_Kiosk_Program.dll
